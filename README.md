@@ -1,4 +1,4 @@
-## Opaaa, meu nomé é Rodrigo Quadros!!
+## Rodrigo Shira | Front-End Developer
 
 <div>
   <img height="220em" src="https://github-readme-stats.vercel.app/api?username=Roderigoshq&show_icons=true&theme=dracula">
