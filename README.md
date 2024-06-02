@@ -41,11 +41,11 @@
 # 🎨 Design:
 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-![Snake animation](https://github.com/Roderigoshq/Roderigoshq/blob/output/github-contribution-grid-snake.svg)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 # Other:
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+![Snake animation](https://github.com/Roderigoshq/Roderigoshq/blob/output/github-contribution-grid-snake.svg)
